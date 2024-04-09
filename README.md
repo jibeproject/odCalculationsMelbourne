@@ -1,6 +1,7 @@
 # odCalculationsMelbourne
 Calculating trip time and distance using the r5r package
 
+Code in this repository ([2_run_OD_analysis.R](./2_run_OD_analysis.R)) was prepared by Alan Both adapting earlier code prepared by Carl Higgs at https://github.com/carlhiggs/multimodal_analysis_example ([multimodal_od_analysis_example.Rmd](https://github.com/carlhiggs/multimodal_analysis_example/blob/main/multimodal_od_analysis_example.Rmd)) illustrating how r5r could be used for analysis in a JIBE sub-project led by Tayebeh Saghapour.
 
 ## Instructions
 
